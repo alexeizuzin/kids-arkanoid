@@ -1,0 +1,89 @@
+.pole {
+	position: absolute;
+	left: 10px;
+	top: 10px;
+	width: 500px;
+	height: 500px;
+	background: gray;
+	border-top: 10px solid black;
+	border-left: 10px solid black;
+	border-right: 10px solid black;
+}
+
+.bita {
+	position: absolute;
+	left: 220px;
+	top: 500px;
+	width: 100px;
+	height: 10px;
+	background: blue;
+	border-top: 5px solid black;
+}
+
+.shar {
+	position: absolute;
+	left: 220px;
+	top: 410px;
+	width: 10px;
+	height: 10px;
+	background: orange;
+	border-radius: 5px;
+}
+
+.kirpich {
+	position: absolute;
+	width: 100px;
+	height: 30px;
+	background: red;
+	border: 1px solid black;
+}
+
+#id_kirpich_00 {
+	top: 20px;
+	left: 20px;
+} 
+
+#id_kirpich_01 {
+	top: 20px;
+	left: 120px;
+} 
+
+#id_kirpich_02 {
+	top: 20px;
+	left: 220px;
+} 
+
+#id_kirpich_03 {
+	top: 20px;
+	left: 320px;
+} 
+
+#id_kirpich_04 {
+	top: 20px;
+	left: 420px;
+} 
+
+#id_kirpich_05 {
+	top: 50px;
+	left: 20px;
+} 
+
+#id_kirpich_06 {
+	top: 50px;
+	left: 120px;
+} 
+
+#id_kirpich_07 {
+	top: 50px;
+	left: 220px;
+} 
+
+#id_kirpich_08 {
+	top: 50px;
+	left: 320px;
+} 
+
+#id_kirpich_09 {
+	top: 50px;
+	left: 420px;
+} 
